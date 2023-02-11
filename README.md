@@ -1,5 +1,4 @@
 <h1 align="center" dir="auto">👋 Hello! I'm Vitalii</h1>
-## 👋 Hello! I'm Vitalii ##
 
 ### Languages and Tools:
 

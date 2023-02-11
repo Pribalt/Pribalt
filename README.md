@@ -13,5 +13,4 @@
  
 ``` markdawn
 .center[ffff]
-
 ```

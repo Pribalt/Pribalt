@@ -1,4 +1,4 @@
-<h1 style="text-align: center">👋 Hello! I'm Vitalii</h1>
+<h1 align="center" dir="auto">👋 Hello! I'm Vitalii</h1>
 
 <h2 align="center" dir="auto">Languages and Tools:</h2>
 

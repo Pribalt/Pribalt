@@ -1,6 +1,6 @@
-## 👋 Hello! I'm Vitalii
+<div style="text-align: center"><h2>👋 Hello! I'm Vitalii</h1></div>
 
-### Languages and Tools:
+<div style="text-align: center"><h2>### Languages and Tools:</h1></div>
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -8,10 +8,3 @@
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
- 
-
-<center> ## </center>
-<div style="text-align: center">dfsfs</div>
-<div style="text-align: center"><h1>adasdad</h1></div>

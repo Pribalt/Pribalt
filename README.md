@@ -1,4 +1,4 @@
-<h2 align="center" dir="auto">👋 Hi! I'm Vitalii</h2>
+<h2 align="center" dir="auto">👋 Hi!</h2>
 
 ### My tools:
 

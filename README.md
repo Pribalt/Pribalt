@@ -12,7 +12,7 @@
 </div>
 <p></p>
 <div align="center" style="padding: 20px 0;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pribalt&show_icons=true&theme=radical)
+<img style="height: auto; width: 60%;" src="github-readme-stats.vercel.app/api?username=Pribalt&show_icons=true&theme=radical" />
 </div>
 
 
